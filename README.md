@@ -1,6 +1,6 @@
-## 0x11. C - printf
+# 0x11. C - printf
 
-# A PROJECT TO CREATE PRINTF
+## A PROJECT TO CREATE PRINTF
 
 1. Write a function that produces output according to a format.
 2. Handle the following conversion specifiers.
